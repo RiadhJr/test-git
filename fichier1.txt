@@ -1,5 +1,5 @@
 fichier1
 
 
-mode main 
+mode main1
 
